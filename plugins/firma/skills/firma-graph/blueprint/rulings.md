@@ -1,6 +1,6 @@
 ---
 name: rulings
-description: Curtis's rulings from 2026-09-05, 06, 11, 13 and 20 that shape the Blueprint drawing, the document library, and what the name Firma covers. Domains as filter, people at the center, three rings, the place ladder, the Settlemint ladder (T0–T4 retired), FIG floats and its backing, elemint and vault claim, Fragmints, Convertors, Realm as a sibling family, Edge Cache, Haven and SeedBase, Water Realm, orbital, banks, funds, Theosis, roles, the ten headings of the document library, and Firma as the Order rather than a product.
+description: Curtis's rulings from 2026-09-05, 06, 11, 13, 20 and 10-26 that shape the Blueprint drawing, the document library, and what the name Firma covers. Domains as filter, people at the center, three rings, the place ladder, the Settlemint ladder (T0–T4 retired), FIG floats and its backing, elemint and vault claim, Fragmints, Convertors, Realm as a sibling family, Edge Cache, Haven and SeedBase, Water Realm, orbital, banks, funds, Theosis, roles, the ten headings of the document library, Firma as the Order rather than a product, and Firma owning to build with a written path to let go.
 type: blueprint
 status: LOCKED
 source: blueprint.md "Rulings from Curtis"; sites/blueprint/data/blueprint-md-rulings.md
@@ -48,3 +48,7 @@ source: blueprint.md "Rulings from Curtis"; sites/blueprint/data/blueprint-md-ru
 - **The functions inside it.** Firma Labs builds the protocols, software, and core systems. Firma Frontier builds and deploys physical infrastructure in the real world. Elemint is the RWA platform. firmamint is the rights and settlement layer. Realm is the human-facing infrastructure layer for homes, places, and communities.
 - **Never let "Firma" mean "the software company."** When it does, everything becomes Firma this, Firma that, Firma product, Firma platform, Firma deployment, and the names underneath stop meaning anything. Attribution names the function that did the work: Firma Frontier deployed it · Elemint structured the asset · firmamint handles the rights · it serves a Realm · it's built by Firma Labs.
 - **"We are Firma" is the cultural phrase**, not a corporate one: we belong to the broader ecosystem and mission. "That's Firma" says a thing expresses the Firma way of building. Full record: [[firma-the-name]]. Curtis struck the earlier "house" metaphor the same day: Firma is the Order itself, in the sense [[firma-order]] has held since 2026-08-11.
+
+## 2026-10-26 — Firma owns to build, with a written path to let go
+
+- **Firma holds the ownership it needs to build today; each agreement writes in when and how it passes on** — to the community, the DUNA, or open source. The system itself is never sold. This replaces the earlier no-ownership boundary at L1-64. The hand-off is written in up front: costs repaid, a set term, or the DUNA able to hold it. Entitlements never double-count, and no hand-off touches Fragmints already earned. Source: Curtis, 2026-10-26, Iben brief (the Elemint deal: owning to build, then letting go).

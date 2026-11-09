@@ -47,7 +47,7 @@ source: blueprint.md "Never"
 - Reputation may only widen a bounded aperture that is non-zero at zero; endorsement counts distinct verifying counterparties, never engagement.
 - Dimensions the book cannot witness read "no signal yet"; never guessed or padded.
 - A face image is never on-chain (a hash at most).
-- Settlemint is earned through T0→T4, never purchased.
+- Settlemint is earned stage by stage by operating, never purchased; the T0–T4 labels are retired.
 - Nothing may branch on human-vs-agent in payment or permission code.
 - Living at a Settlemint creates no Firma Role; a Role grants no authority over Settlemint life; Pod or Swarm participation joins no one to a Sphere; membership comes only from the Settlemint's own covenant.
 - Sealed is a status of work, never of people; no team is the inner circle; compartmentalization by timing, never by trustworthiness.
